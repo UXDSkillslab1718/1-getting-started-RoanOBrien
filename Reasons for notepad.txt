@@ -1,0 +1,7 @@
+For now I will be using Notepad++ on Windows because:
+
+- I have already worked in this text editor before
+- It is super simple
+- I like the fact that it has auto finish options and it colours various different parts of my code.
+
+I do not have enough experience with Sublime or Atom and can not use Brackets since I'm on Windows.
